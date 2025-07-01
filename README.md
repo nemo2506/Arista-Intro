@@ -83,6 +83,6 @@ interface ExerciseDao {
 
 ## ✅ Exemple de Base de Données
 <p align="center">
-  <img src="https://your-domain.com/path/to/animation.gif" alt="Arista Animation" width="500"/>
+  <img src="https://your-domain.com/path/to/animation.gif](https://user.oc-static.com/upload/2023/12/06/17018748594551_image3.png" alt="Arista Animation" width="500"/>
 </p>
 
