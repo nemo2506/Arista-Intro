@@ -79,7 +79,8 @@ interface ExerciseDao {
     @Query("SELECT * FROM Exercise") fun getAll(): LiveData<List<Exercise>>
 }
 
+---
 
-## 📦 Exemple de Base de Données
+## ✅ Exemple de Base de Données
 ![Demo Animation](https://user.oc-static.com/upload/2023/12/06/17018748594551_image3.png)
 
