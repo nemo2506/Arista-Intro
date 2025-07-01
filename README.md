@@ -60,6 +60,7 @@ L'application se base sur votre diagramme de classes précédent. Vous devez y i
 - 📦 LiveData / StateFlow
 - ✨ Material Components
 
+---
 
 ## ✅ Exemple de Base de Données
 <p align="center">
