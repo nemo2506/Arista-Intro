@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="ARISTA logo" width="150"/>
+  <img src="https://user.oc-static.com/upload/2025/02/18/1739888335313_Capture_d_e%CC%81cran_2025-02-18_a%CC%80_16.17.46-removebg-preview.png" alt="ARISTA logo" width="150"/>
 </p>
 
 # 💡 Projet Android - ARISTA  📱🧠
