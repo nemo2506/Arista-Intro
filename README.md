@@ -60,6 +60,12 @@ L'application se base sur votre diagramme de classes précédent. Vous devez y i
 - 📦 LiveData / StateFlow
 - ✨ Material Components
 
+
+## ✅ Exemple de Base de Données
+<p align="center">
+  <img src="https://user.oc-static.com/upload/2023/12/06/17018748594551_image3.png" alt="Tables" width="500"/>
+</p>
+
 ---
 
 ## 📦 Exemple de structure Room
@@ -78,11 +84,4 @@ interface ExerciseDao {
     @Delete fun delete(exercise: Exercise)
     @Query("SELECT * FROM Exercise") fun getAll(): LiveData<List<Exercise>>
 }
-
----
-
-## ✅ Exemple de Base de Données
-<p align="center">
-  <img src="https://your-domain.com/path/to/animation.gif](https://user.oc-static.com/upload/2023/12/06/17018748594551_image3.png" alt="Arista Animation" width="500"/>
-</p>
 
